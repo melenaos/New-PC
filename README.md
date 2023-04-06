@@ -7,6 +7,7 @@ To find the installation media for Office 2019/2016 visit https://account.micros
 Visit [setup.office.com](https://setup.office.com/) to activate a new license.
 
 ## PowerShell
+[Full article](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
 Install the [New powershell](https://www.microsoft.com/en-us/p/powershell/9mz1snwt0n5d?SilentAuth=1&wa=wsignin1.0&WT.mc_id=-blog-scottha#activetab=pivot:overviewtab) from the marketplace.
 
 Change the default shell to the 'PowerShell' and maybe edit the settings.json to clear up some unneeded shells
@@ -31,3 +32,10 @@ The profile script will now be created. It will be in the location following the
 
 Edit the file and add this `oh-my-posh --init --shell pwsh --config ~/Documents/PowerShell/ohmyposhv3-v2.json | Invoke-Expression`
 Download [Oh my posh json](https://gist.githubusercontent.com/shanselman/1f69b28bfcc4f7716e49eb5bb34d7b2c/raw/8e9c9a8736ff4e9e5a863c20833d614549ccbc32/ohmyposhv3-v2.json) and save it at the Documents/Powershell folder
+
+Reload Profile `. $PROFILE`
+
+### Colors and Icons in directories
+`Install-Module -Name Terminal-Icons -Repository PSGallery`
+and add the following at the $profile (`code $profile`)
+`Import-Module -Name Terminal-Icons`
