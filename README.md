@@ -41,3 +41,6 @@ Reload Profile `. $PROFILE`
 and add the following at the $profile (`code $profile`)
 
 `Import-Module -Name Terminal-Icons`
+
+### PSReadLine
+https://github.com/PowerShell/PSReadLine
