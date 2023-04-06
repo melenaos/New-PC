@@ -1,6 +1,24 @@
 # New-PC
 Installation sequence when I buy a new PC
 
+## KeePass
+https://keepass.info/download.html
+
+### Plugins
+https://keepass.info/plugins.html
+
+Download the plugin `.plgx` and save it in the `C:\Program Files\KeePass Password Safe 2\Plugins` folder.
+
+https://github.com/KoenZomers/KeePassOneDriveSync/releases
+
+
+## Github Desktop
+https://desktop.github.com/
+
+## Visual studio
+Download Visual studio 2022 and VS Code from here
+https://visualstudio.microsoft.com/downloads/
+
 ## Office
 To find the installation media for Office 2019/2016 visit https://account.microsoft.com/services
 
