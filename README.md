@@ -2,7 +2,7 @@
 Installation sequence when I buy a new PC
 
 
-## Applications for install
+## Applications to install
 - [Visual studio](https://visualstudio.microsoft.com/downloads/). Both VSCode and Visual Studio 2022
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer)
 - [KeePass](https://keepass.info/download.html)
