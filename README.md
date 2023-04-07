@@ -12,7 +12,9 @@ Installation sequence when I buy a new PC
 - [Git cli](https://git-scm.com/download/win). It is needed for VSCode git integration
 - [Sql Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), download the `Developer` version.
 - [Sql Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
-  - [SSMS Direct link](https://aka.ms/ssmsfullsetup) 
+  - [SSMS Direct link](https://aka.ms/ssmsfullsetup)  
+- [nvm-windows](https://github.com/coreybutler/nvm-windows/releases)
+  - `nvm install 16.17` 
 
 
 
