@@ -2,26 +2,20 @@
 Installation sequence when I buy a new PC
 
 
+## Applications for install
+- [Visual studio](https://visualstudio.microsoft.com/downloads/). Both VSCode and Visual Studio 2022
+- [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer)
+- [KeePass](https://keepass.info/download.html)
+  Download the plugin `.plgx` and save it in the `C:\Program Files\KeePass Password Safe 2\Plugins` folder.
+  - [All plugins](https://keepass.info/plugins.html)
+  - [OneDrive synch](https://github.com/KoenZomers/KeePassOneDriveSync/releases)
+- [Github Desktop](https://desktop.github.com/)
+- [Git cli](https://git-scm.com/download/win). It is needed for VSCode git integration
+- [Sql Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), download the `Developer` version.
+- [Sql Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+  - [SSMS Direct link](https://aka.ms/ssmsfullsetup) 
 
-## KeePass
-https://keepass.info/download.html
 
-### Plugins
-https://keepass.info/plugins.html
-
-Download the plugin `.plgx` and save it in the `C:\Program Files\KeePass Password Safe 2\Plugins` folder.
-
-https://github.com/KoenZomers/KeePassOneDriveSync/releases
-
-
-## Git
-https://desktop.github.com/
-
-https://git-scm.com/download/win
-
-## Visual studio
-Download Visual studio 2022 and VS Code from here
-https://visualstudio.microsoft.com/downloads/
 
 ## Office
 To find the installation media for Office 2019/2016 visit https://account.microsoft.com/services
