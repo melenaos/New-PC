@@ -1,6 +1,8 @@
 # New-PC
 Installation sequence when I buy a new PC
 
+
+
 ## KeePass
 https://keepass.info/download.html
 
@@ -12,8 +14,10 @@ Download the plugin `.plgx` and save it in the `C:\Program Files\KeePass Passwor
 https://github.com/KoenZomers/KeePassOneDriveSync/releases
 
 
-## Github Desktop
+## Git
 https://desktop.github.com/
+
+https://git-scm.com/download/win
 
 ## Visual studio
 Download Visual studio 2022 and VS Code from here
