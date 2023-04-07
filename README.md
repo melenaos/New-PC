@@ -30,6 +30,7 @@ Visit [setup.office.com](https://setup.office.com/) to activate a new license.
 
 ## PowerShell
 [Full article](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
+
 Install the [New powershell](https://www.microsoft.com/en-us/p/powershell/9mz1snwt0n5d?SilentAuth=1&wa=wsignin1.0&WT.mc_id=-blog-scottha#activetab=pivot:overviewtab) from the marketplace.
 
 Change the default shell to the 'PowerShell' and maybe edit the settings.json to clear up some unneeded shells
@@ -48,6 +49,7 @@ winget install JanDeDobbeleer.OhMyPosh
 
 Edit $Profile
 `Test-Path $profile` : Test if the file exists
+
 `New-Item -path $profile -type file –force` : Create if not exists
 
 The profile script will now be created. It will be in the location following the “Directory:” output. When we browse to that location, the profile script will be there waiting for us to modify. Open the file named “Microsoft.Powershell_profile.ps1”
