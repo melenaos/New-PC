@@ -28,6 +28,15 @@ To find the installation media for Office 2019/2016 visit https://account.micros
 
 Visit [setup.office.com](https://setup.office.com/) to activate a new license.
 
+## MyShortcut
+By default all downloaded from internet scripts (or every script) doens't run without permittion. Unblock this restriction.
+
+`Set-ExecutionPolicy Unrestricted -scope CurrentUser`
+
+And then for every script, including MyShortcut run
+
+`Unblock-File ...`
+
 ## PowerShell
 [Full article](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
 
