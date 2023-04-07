@@ -13,6 +13,7 @@ Installation sequence when I buy a new PC
 - [Sql Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), download the `Developer` version.
 - [Sql Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
   - [SSMS Direct link](https://aka.ms/ssmsfullsetup)  
+- [node](https://nodejs.org/en/download). Add Additional building tools (including Chocolate)
 - [nvm-windows](https://github.com/coreybutler/nvm-windows/releases)
   - `nvm install 16.17` 
 
