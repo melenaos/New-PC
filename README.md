@@ -5,6 +5,7 @@ Installation sequence when I buy a new PC
 ## Applications to install
 - [Visual studio](https://visualstudio.microsoft.com/downloads/). Both VSCode and Visual Studio 2022
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer)
+- [Azure Storage Emulator](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator). Must migrate to Azurite!
 - [KeePass](https://keepass.info/download.html)
   - [All plugins](https://keepass.info/plugins.html). Download the plugin `.plgx` and save it in the `C:\Program Files\KeePass Password Safe 2\Plugins` folder.
   - [OneDrive synch](https://github.com/KoenZomers/KeePassOneDriveSync/releases)
