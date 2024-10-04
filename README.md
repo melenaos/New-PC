@@ -9,6 +9,8 @@ Installation sequence when I buy a new PC
 - [KeePass](https://keepass.info/download.html)
   - [All plugins](https://keepass.info/plugins.html). Download the plugin `.plgx` and save it in the `C:\Program Files\KeePass Password Safe 2\Plugins` folder.
   - [OneDrive synch](https://github.com/KoenZomers/KeePassOneDriveSync/releases)
+- [Obsidian](https://obsidian.md/download)
+- [Discord](https://discord.com/)
 - [Github Desktop](https://desktop.github.com/)
 - [Git cli](https://git-scm.com/download/win). It is needed for VSCode git integration
 - [Sql Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), download the `Developer` version.
