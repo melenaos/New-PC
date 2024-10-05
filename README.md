@@ -88,3 +88,14 @@ and add the following at the $profile (`notepad $profile` or just `ep`)
 
 ### PSReadLine
 https://github.com/PowerShell/PSReadLine
+
+#### installation
+```
+Install-Module -Name PowerShellGet -Force
+Exit
+```
+and then `Install-Module PSReadLine -AllowPrerelease -Force`
+
+The profile file should look like: 
+https://github.com/melenaos/New-PC/blob/main/Microsoft.PowerShell_profile.ps1
+
