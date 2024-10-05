@@ -47,6 +47,18 @@ Download [CascadiaCode font](https://github.com/ryanoasis/nerd-fonts/releases/do
 
 Change the Terminal settings to use `CascadiaCode NF` font.
 
+### Add an alias to edit the `profile`
+Type `Notepad $Profile` to edit the profile
+
+Add the following at the profile file and save
+```
+function Edit-ProfileFile{
+   Notepad $profile
+}
+Set-Alias ep Edit-ProfileFile
+```
+Next time you load the PowerShell you will be able to edit the profile file with the command `ep`
+
 ### Oh My Posh
 
 Installation
