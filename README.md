@@ -82,7 +82,7 @@ Reload Profile `. $PROFILE`
 ### Colors and Icons in directories
 `Install-Module -Name Terminal-Icons -Repository PSGallery`
 
-and add the following at the $profile (`code $profile`)
+and add the following at the $profile (`notepad $profile` or just `ep`)
 
 `Import-Module -Name Terminal-Icons`
 
